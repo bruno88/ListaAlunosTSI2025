@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e6e6e6;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+div {
+    border: 1px solid black;
+    height: auto;
+    vertical-align: top;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+div p {
+    padding: 5px;
+}
+
+main {
+    text-align: center;
+    width: 0 auto;
+    margin: 0 auto;
+}
